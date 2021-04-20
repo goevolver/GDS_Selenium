@@ -1,6 +1,6 @@
 # GDS_Selenium
 
-This is a way to automatically automatically updates Google data Studio dashboards using Selenium.
+This is a way to automatically update Google data Studio dashboards using Selenium.
 
 Download Python 3.9
 https://www.python.org/downloads/
