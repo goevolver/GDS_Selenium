@@ -15,3 +15,5 @@ Please update by go to the page below and copy the Profile Path and add it to th
 chrome://version/
 
 add Selenium through command line pip install "requirements.txt"
+
+To run the file, navigate to the repository, and type "Python Chrome_Unmade.py countrycode companyid integrationkey", substituting the final three with their appropriate values (us or ca for country code) and press enter
